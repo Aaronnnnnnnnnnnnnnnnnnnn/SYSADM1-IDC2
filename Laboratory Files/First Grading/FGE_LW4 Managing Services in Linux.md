@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| d6961b36a9d7409890a6400c7eb07f2a |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Aaron Joshua G. Sese       | DATE PERFORMED:        |          |
-|                                  | September 12, 2024     |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | September 12, 2024     |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/1f7f396b-00da-402c-aa3f-94823726a56b)
+
 
 # SYSADM1 -- Managing Services in Linux
 
