@@ -1,18 +1,5 @@
-+----------------------------------+---------------------------+------+
-| ![](vertopal_                    |                           |      |
-| d71cd5380e29450596510a51c27cdd6c |                           |      |
-| /media/image1.png){width="2.4in" |                           |      |
-| height="0.5881944444444445in"}   |                           |      |
-|                                  |                           |      |
-| SCHOOL OF INFORMATION AND        |                           |      |
-| TECHNOLOGY                       |                           |      |
-+----------------------------------+---------------------------+------+
-| NAME: Aaron Joshua G. Sese       | DATE PERFORMED: August    |      |
-|                                  | 28, 2024                  |      |
-+----------------------------------+---------------------------+------+
-| Section: IDC2                    | DATE SUBMITTED: August    |      |
-|                                  | 28, 2024                  |      |
-+----------------------------------+---------------------------+------+
+![image](https://github.com/user-attachments/assets/c339092f-aa83-4e4d-ae9a-24435bcfb22d)
+
 
 # SYSADM1 -- Managing Services in Windows
 
