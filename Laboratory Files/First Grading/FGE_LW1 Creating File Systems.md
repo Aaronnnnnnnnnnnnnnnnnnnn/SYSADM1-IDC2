@@ -1,17 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 43b13014fe644d6b9ebb6f60e822768c |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Aaron Joshua G. Sese       | DATE PERFORMED:        | 45/50    |
-|                                  | 8/22/2024              |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/f3613335-44df-4719-99aa-fe6b566a4890)
+
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
 
