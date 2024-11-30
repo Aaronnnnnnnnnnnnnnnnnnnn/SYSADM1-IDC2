@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| a5b0eee26cc943128bcf2466a2689382 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Aaron Joshua G. Sese       | DATE PERFORMED:        | /50      |
-|                                  | 11/14/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 11/14/2024             |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/c51fe90b-f748-49d4-8b89-7a699fe3eaf2)
+
 
 # SYSADM1 -- Kerberos Lab Activity: A step-by-step Guide
 
