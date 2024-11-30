@@ -1,17 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](.                            |                        |          |
-| /image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Aaron Joshua G. Sese       | DATE PERFORMED:        | /50      |
-|                                  | 3/10/2024              |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 3/10/2024              |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/c3e02d5d-ceac-4799-872a-e31bacdd2ea4)
+
 
 # SYSADM1 -- Monitoring Print Services in Windows Server 2019
 
