@@ -5,10 +5,12 @@
 
 ## Part 1. A Simulated Dataset for Capacity Planning Exercise
 
-![](vertopal_fadd46daac8d4513bea1b42ea0bce55e/media/image2.png){width="4.749564741907261in"
-height="2.4791666666666665in"}**Scenario:** A mid-sized e-commerce
+**Scenario:** A mid-sized e-commerce
 website is expecting a significant surge in traffic due to an upcoming
 holiday sale.
+
+![image](https://github.com/user-attachments/assets/2941a406-39f8-43da-9ec8-6b2c83cb51b6)
+
 
 ### [Projected Traffic Increase]{.underline}
 
