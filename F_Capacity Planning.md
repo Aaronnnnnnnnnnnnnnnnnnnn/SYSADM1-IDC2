@@ -1,17 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| fadd46daac8d4513bea1b42ea0bce55e |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Shekinah T. Sotero, Aaron  | DATE PERFORMED:        | /50      |
-| Joshua G. Sese                   | 11/28/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/b19ae85b-583d-4edc-bdb1-56ac259f5f3f)
+
 
 # SYSADM1 -- Capacity Management & Planning
 
