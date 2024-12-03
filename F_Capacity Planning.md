@@ -3,7 +3,7 @@
 
 # SYSADM1 -- Capacity Management & Planning
 
-## Part 1. A Simulated Dataset for Capacity Planning Exercise {#part-1.-a-simulated-dataset-for-capacity-planning-exercise .list-paragraph}
+## Part 1. A Simulated Dataset for Capacity Planning Exercise
 
 ![](vertopal_fadd46daac8d4513bea1b42ea0bce55e/media/image2.png){width="4.749564741907261in"
 height="2.4791666666666665in"}**Scenario:** A mid-sized e-commerce
