@@ -13,7 +13,7 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![image](https://github.com/user-attachments/assets/7939aca9-7682-44f0-9ed8-e55635f1ce7f)
+![image](https://github.com/user-attachments/assets/2c453457-0933-4688-9d3d-b3ad6d2ef0f2)
 
 
 **Identified Problems:**
@@ -130,10 +130,10 @@ increased user demand, new applications, and security threats.
 
     \- Requires regular updates and monitoring.
 
-    **The Solution:**
+ **The Solution:**
 
-![](vertopal_16db6510f2c04d86b7127b5d1b89e03e/media/image3.png){width="7.0256944444444445in"
-height="3.361111111111111in"}
+![image](https://github.com/user-attachments/assets/b4830a96-dc42-4b62-943f-9a313b9ad4b1)
+
 
 Cost
 
