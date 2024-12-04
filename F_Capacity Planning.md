@@ -1,17 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 16db6510f2c04d86b7127b5d1b89e03e |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Shekinah T. Sotero, Aaron  | DATE PERFORMED:        | /50      |
-| Joshua G. Sese                   | 11/28/2024             |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/2105a9a4-4d9a-4578-a5eb-2133d5a07e37)
+
 
 # SYSADM1 -- Capacity Management & Planning
 
@@ -25,8 +13,8 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_16db6510f2c04d86b7127b5d1b89e03e/media/image2.webp){width="5.049305555555556in"
-height="3.8229166666666665in"}
+![image](https://github.com/user-attachments/assets/7939aca9-7682-44f0-9ed8-e55635f1ce7f)
+
 
 **Identified Problems:**
 
