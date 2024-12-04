@@ -15,7 +15,7 @@ increased user demand, new applications, and security threats.
 
 ![image](https://github.com/user-attachments/assets/18f414e6-c79e-44d4-bb69-59851db1ef59)
 
-Identified Problems:
+Identified Problems: \
 One ISP
 	- The proposed network relies on a single ISP, creating a single point of failure for internet connectivity.
 Lack of Redundancy in Core Switch and Edge Routers
