@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/ae1f9bbe-212b-4a99-bbd6-f358e4905beb)
 
 
-# \<SUBJECT CODE\> PORTFOLIO
+# SYSADM2 PORTFOLIO
 
 > **Table of Contents**
 
@@ -12,13 +12,6 @@
 
 **\<insert your scanned activities here include title\>**
 
-**Quiz 1:**
-
-![](vertopal_1f559a9d18b24fccb01630e732b3d23a/media/image1.png){width="2.8125in"
-height="2.8125in"}
-
-**\<delete the sample above and include your own
-quizzes/activities/exam\>**
 
 **Course Reflection**
 
