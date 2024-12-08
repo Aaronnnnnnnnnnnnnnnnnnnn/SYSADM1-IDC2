@@ -36,7 +36,7 @@
 What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
 
--My initial expectations for the course are by going over the fundamentals of how systems operate and going through servers more as they were taught last semester. This course exceeded my expectations since the learnings that I want was covered in this subject. Furthermore, my objectives were to learn about the inner workings of system administrator and acquire useful abilities for server management.
+- My initial expectations for the course are by going over the fundamentals of how systems operate and going through servers more as they were taught last semester. This course exceeded my expectations since the learnings that I want was covered in this subject. Furthermore, my objectives were to learn about the inner workings of system administrator and acquire useful abilities for server management.
 
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
